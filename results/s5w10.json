@@ -1,0 +1,459 @@
+{
+  "dev": false,
+  "external_name": "baybridgepinball",
+  "external_id": "s5w10",
+  "event_name": "Bay Bridge Pinball, Season 5, Week 10, Single matches",
+  "completed_at": "2019-06-04T21:00:00-0700",
+  "event_url": "http://www.baybridgepinball.com/",
+  "players": [
+    {
+      "external_id": "jgarvey",
+      "name": "Jared Garvey",
+      "ifpa_id": 35784,
+      "matchplay_user_id": 135
+    },
+	{
+	  "external_id": "gcollecchia",
+	  "name": "Gina Collecchia",
+      "ifpa_id": 72629,
+      "matchplay_user_id": 11357
+    },
+	{
+	  "external_id": "tcollins",
+	  "name": "Tom Collins",
+      "ifpa_id": 12378,
+      "matchplay_user_id": 6963
+    },
+	{
+	  "external_id": "jlay",
+	  "name": "Jordan Lay",
+      "ifpa_id": 70684,
+      "matchplay_user_id": 9446
+    },
+	{
+	  "external_id": "ghwang",
+	  "name": "Gene X Hwang",
+      "ifpa_id": 13052,
+      "matchplay_user_id": 9
+    },
+	{
+	  "external_id": "lwagensonner",
+	  "name": "Louise Wagensonner",
+      "ifpa_id": 19305,
+      "matchplay_user_id": 677
+    },
+	{
+	  "external_id": "bthompson",
+	  "name": "Brandy Thompson",
+      "ifpa_id": 40156,
+      "matchplay_user_id": 1844
+    },
+	{
+	  "external_id": "pschwarzenberger",
+	  "name": "Per Schwarzenberger",
+      "ifpa_id": 12220,
+      "matchplay_user_id": 2
+    },
+	{
+	  "external_id": "mdevereux",
+	  "name": "Maura Devereux",
+      "ifpa_id": 25487,
+      "matchplay_user_id": 2142
+    },
+	{
+	  "external_id": "rwinn",
+	  "name": "Rachel Winn"
+    },
+    {
+	  "external_id": "dzhang",
+	  "name": "Danny Zhang",
+      "ifpa_id": 44734,
+      "matchplay_user_id": 1667
+    },
+    {
+	  "external_id": "aoneill",
+	  "name": "Allison O'Neill",
+      "ifpa_id": 19302,
+      "matchplay_user_id": 181
+    },
+    {
+      "external_id": "gsilveira",
+      "name": "Gabe da Silveira",
+      "ifpa_id": 18245,
+      "matchplay_user_id": 2075
+    },
+    {
+      "external_id": "nyahnke",
+      "name": "Nick Yahnke",
+      "ifpa_id": 44733,
+      "matchplay_user_id": 1627
+    },
+    {
+      "external_id": "dvolansky",
+      "name": "David Volansky",
+      "ifpa_id": 16705
+    },
+    {
+      "external_id": "epalmer",
+      "name": "Emily Palmer",
+      "ifpa_id": 53002,
+      "matchplay_user_id": 11289
+    },
+    {
+      "external_id": "boneill",
+      "name": "Brian O'Neill",
+      "ifpa_id": 19301,
+      "matchplay_user_id": 184
+    },
+    {
+      "external_id": "dlee",
+      "name": "David Lee",
+      "ifpa_id": 12216,
+      "matchplay_user_id": 162
+    },
+    {
+      "external_id": "jgodinez",
+      "name": "Jose Godinez",
+      "ifpa_id": 38603,
+      "matchplay_user_id": 943   
+    },
+    {
+      "external_id": "dortega",
+      "name": "David Ortega",
+      "ifpa_id": 45894,
+      "matchplay_user_id": 2469
+    },
+    {
+      "external_id": "jcena",
+      "name": "John Cena",
+      "ifpa_id": 24766,
+      "matchplay_user_id": 1171
+    },
+    {
+      "external_id": "bgarrehy",
+      "name": "Bryn Garrehy",
+      "ifpa_id": 64509
+    },
+        {
+      "external_id": "mvillarreal",
+      "name": "Mike Villarreal",
+      "matchplay_user_id": 790,     
+      "ifpa_id": 30082
+    },
+    {
+      "external_id": "ewagensonner",
+      "name": "Eric Wagensonner",
+      "ifpa_id": 8855,
+      "matchplay_user_id": 156
+    },
+    {
+      "external_id": "dlipkin",
+      "name": "Derek Lipin",
+      "ifpa_id": 33048,
+      "matchplay_user_id": 86
+    },
+    {
+      "external_id": "jvaldez",
+      "name": "Janel Valdez",
+      "ifpa_id": 45062,
+      "matchplay_user_id": 1761
+    },
+    {
+      "external_id": "dlangum",
+      "name": "Daylene Langum",
+      "ifpa_id": 45061,
+      "matchplay_user_id": 1760
+    },
+    {
+      "external_id": "jherrman",
+      "name": "Jeremy Herrman",
+      "ifpa_id": 22175,
+      "matchplay_user_id": 927
+    },
+    {
+      "external_id": "gamar",
+      "name": "Gilbert Amar",
+      "ifpa_id": 62268,
+      "matchplay_user_id": 7871
+    },
+    {
+      "external_id": "jbarron",
+      "name": "James Barron",
+      "ifpa_id": 10686,
+      "matchplay_user_id": 7624
+    },
+    {
+      "external_id": "lbaxter",
+      "name": "Luke Baxter",
+      "ifpa_id": 48658,
+      "matchplay_user_id": 2874
+    },
+    {
+      "external_id": "psoriano",
+      "name": "Peter Soriano",
+      "ifpa_id": 41564,
+      "matchplay_user_id": 970
+    },
+    {
+      "external_id": "smiller",
+      "name": "Stacey Miller",
+      "ifpa_id": 53214,
+      "matchplay_user_id": 5306
+    },
+    {
+      "external_id": "klewis",
+      "name": "Kevin Lewis",
+      "ifpa_id": 2331,
+      "matchplay_user_id": 4417
+    },
+    {
+      "external_id": "lruckman",
+      "name": "Leslie Ruckman",
+      "ifpa_id": 47411,
+      "matchplay_user_id": 4451
+    },
+    {
+      "external_id": "msmith",
+      "name": "Manu Smith",
+      "ifpa_id": 36767,
+      "matchplay_user_id": 7691
+    },
+    {
+      "external_id": "jolkowski",
+      "name": "Jon Olkowski",
+      "ifpa_id": 6189,
+      "matchplay_user_id": 2933
+    },
+    {
+      "external_id": "swasserstrom",
+      "name": "Susie Wasserstrom",
+      "ifpa_id": 40436,
+      "matchplay_user_id": 535
+    },
+    {
+      "external_id": "zwollons",
+      "name": "Zac Wollons",
+      "ifpa_id": 21965,
+      "matchplay_user_id": 41
+    },
+    {
+      "external_id": "densley",
+      "name": "Darren Ensley",
+      "ifpa_id": 12117,
+      "matchplay_user_id": 424
+    },
+    {
+      "external_id": "aabeyta",
+      "name": "Adam Abeyta",
+      "ifpa_id": 64521,
+      "matchplay_user_id": 8089
+    },
+    {
+      "external_id": "bschatz",
+      "name": "Bennett Schatz",
+      "ifpa_id": 64518,
+      "matchplay_user_id": 8181
+    },
+    {
+      "external_id": "mlong",
+      "name": "Meghan Long",
+      "ifpa_id": 40488,
+      "matchplay_user_id": 675
+    },
+    {
+      "external_id": "lramon",
+      "name": "Lisa Ramon",
+      "ifpa_id": 26698,
+      "matchplay_user_id": 363
+    },
+    {
+      "external_id": "ssweetser",
+      "name": "Shannon Sweetser",
+      "ifpa_id": 386390,
+      "matchplay_user_id": 2293
+    },
+    {
+      "external_id": "rsweetser",
+      "name": "Russ Sweetser",
+      "ifpa_id": 19312,
+      "matchplay_user_id": 464
+    },
+    {
+      "external_id": "juziel",
+      "name": "Jamie Uziel",
+      "ifpa_id": 29804,
+      "matchplay_user_id": 559
+    },
+    {
+      "external_id": "rwooley",
+      "name": "Ryan Wooley",
+      "ifpa_id": 25460,
+      "matchplay_user_id": 2172
+    },
+    {
+      "external_id": "nrobinson",
+      "name": "Nate Robinson",
+      "ifpa_id": 25465,
+      "matchplay_user_id": 2159
+    },
+    {
+      "external_id": "nsternhagen",
+      "name": "Nicholas Sternhagen"
+    },
+    {
+      "external_id": "mhenri",
+      "name": "Matthew Henri",
+      "ifpa_id": 16767,
+      "matchplay_user_id": 2152
+    },
+    {
+      "external_id": "ddamico",
+      "name": "Das DAmico",
+      "ifpa_id": 39717,
+      "matchplay_user_id": 566
+    },
+    {
+      "external_id": "gegea",
+      "name": "Gen Egea",
+      "ifpa_id": 38597,
+      "matchplay_user_id": 468
+    },
+    {
+      "external_id": "tdelk",
+      "name": "Terri Lynn Delk",
+      "ifpa_id": 41210,
+      "matchplay_user_id": 706
+    },
+    {
+      "external_id": "jdriscoll",
+      "name": "Julie Driscoll",
+      "ifpa_id": 51806,
+      "matchplay_user_id": 3216
+    },
+    {
+      "external_id": "rblumenthal",
+      "name": "Ryan Blumenthal",
+      "ifpa_id": 19313,
+      "matchplay_user_id": 2030
+    },
+    {
+      "external_id": "jguevara",
+      "name": "Justin Guevara",
+      "ifpa_id": 67154,
+      "matchplay_user_id": 5286
+    },
+    {
+      "external_id": "gcreech",
+      "name": "Greg Creech",
+      "ifpa_id": 44319,
+      "matchplay_user_id": 2961
+    },
+    {
+      "external_id": "mdoak",
+      "name": "Megan Doak"
+    },
+    {
+      "external_id": "jmorrow",
+      "name": "Jack Morrow"
+    },
+    {
+      "external_id": "vgrisham",
+      "name": "Veronica Grisham",
+      "ifpa_id": 68696,
+      "matchplay_user_id": 9419
+    },
+    {
+      "external_id": "jsquires",
+      "name": "James Squires",
+      "ifpa_id": 10751,
+      "matchplay_user_id": 547
+    },
+    {
+      "external_id": "zdesario",
+      "name": "Zack Desario",
+      "ifpa_id": 44053,
+      "matchplay_user_id": 3127
+    },
+    {
+      "external_id": "rodonnell",
+      "name": "Ryan O'Donnell",
+      "ifpa_id": 47679,
+      "matchplay_user_id": 4747
+    },
+    {
+      "external_id": "ecodel",
+      "name": "Eddie Codel",
+      "ifpa_id": 25476,
+      "matchplay_user_id": 1114
+    },
+    {
+      "external_id": "tmiller",
+      "name": "Tom Miller",
+      "ifpa_id": 53128,
+      "matchplay_user_id": 4125
+    },
+    {
+      "external_id": "onotteghem",
+      "name": "Oli Notteghem",
+      "ifpa_id": 53565,
+      "matchplay_user_id": 3874
+    },
+    {
+      "external_id": "asteinhauser",
+      "name": "Andy Steinhauser",
+      "ifpa_id": 23707,
+      "matchplay_user_id": 2180
+    },
+    {
+      "external_id": "nwallach",
+      "name": "Noah Wallach",
+      "ifpa_id": 55160,
+      "matchplay_user_id": 2530 
+    },
+    {
+      "external_id": "cgainsley",
+      "name": "Christian Gainsley",
+      "ifpa_id": 52910,
+      "matchplay_user_id": 3241 
+    },
+    {
+      "external_id": "cbarnes",
+      "name": "Cassie Barnes",
+      "ifpa_id": 57363,
+      "matchplay_user_id": 6069
+    },
+    {
+      "external_id": "akalmar",
+      "name": "Alyce Kalmar",
+      "ifpa_id": 57833
+    },
+    {
+      "external_id": "glascaux",
+      "name": "Guilhem Lascaux"
+    },
+    {
+      "external_id": "mwillmarth",
+      "name": "Matt Willmarth",
+      "ifpa_id": 10662,
+      "matchplay_user_id": 962
+    }
+  ],
+  "results": [
+      ["dvolansky","mhenri"],
+	  ["nrobinson","mdevereux"],
+	  ["zdesario","tcollins"],
+	  ["asteinhauser","swasserstrom"],
+	  ["dvolansky","ddamico"],
+	  ["aabeyta","jsquires"],
+	  ["asteinhauser","swasserstrom"],
+	  ["zwollons","nrobinson"],
+	  ["jcena","rwinn"],
+	  ["dortega","jbarron"],
+	  ["psoriano","epalmer"],
+	  ["jgarvey","ghwang"],
+	  ["dortega","klewis"],
+	  ["psoriano","epalmer"],
+	  ["jolkowski","jcena"],
+	  ["lruckman","jgodinez"]
+  ]
+}
