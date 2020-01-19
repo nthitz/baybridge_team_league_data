@@ -11,9 +11,9 @@ const playersRemaining = [...players]
 const dataKey = 'Jan2020'
 
 function loadMPRatings() {
-    const now = moment().subtract(2, 'days')
-    // const date = now.format('YYYY-MM-DD')
-    const date = '2020-01-12' //hmmm
+    const now = moment().subtract(8, 'days')
+    const date = now.format('YYYY-MM-DD')
+    // const date = '2020-01-12' //hmmm
     const playerIds = players.filter(d => d.IFPA_ID !=='').map(d => d.IFPA_ID)
     const url = `https://matchplay.events/data/ifpa/ratings/${date}/${playerIds}`
     console.log(url)
