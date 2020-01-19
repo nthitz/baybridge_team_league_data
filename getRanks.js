@@ -48,8 +48,10 @@ function nextPlayer() {
                 console.error(error)
             }
             const data = JSON.parse(body)
-            const rank = data.player_stats.current_wppr_rank
-            player[`${dataKey}-IFPA_Rank`] = +rank
+            const rank = +data.player_stats.current_wppr_rank
+            if (rank !== 0) {
+                player[`${dataKey}-IFPA_Rank`] = rank
+            }
             gotPiece()
         })
     }
